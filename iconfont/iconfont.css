@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4206790 */
+  src: url('iconfont.woff2?t=1691730112321') format('woff2'),
+       url('iconfont.woff?t=1691730112321') format('woff'),
+       url('iconfont.ttf?t=1691730112321') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-fenxiang_2:before {
+  content: "\e600";
+}
+
+.icon-caidan:before {
+  content: "\eaf1";
+}
+
+.icon-guanbi:before {
+  content: "\eaf2";
+}
+
+.icon-telegram:before {
+  content: "\e794";
+}
+
+.icon-tuite:before {
+  content: "\ee49";
+}
+
+.icon-ETH:before {
+  content: "\e630";
+}
+
